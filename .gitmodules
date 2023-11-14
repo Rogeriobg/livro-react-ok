@@ -1,0 +1,3 @@
+[submodule "livro-next"]
+	path = livro-next
+	url = https://github.com/Rogeriobg/livro-next.git
